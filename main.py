@@ -3,7 +3,7 @@ from discord.ext import commands
 import logging
 
 # 1. ΒΑΛΕ ΤΟ ΝΕΟ ΣΟΥ TOKEN ΕΔΩ (ΜΕΤΑ ΤΟ RESET)
-token = "MTUwODc4MDEyMjMwNjUxMDk1OQ.GUS3hJ.yA3pA0izBooNCBdve4ZpkBl5mk949SS_NQj0g0"
+token = "MTUwODc4MDEyMjMwNjUxMDk1OQ.GOTxvC.mX6bVLOJFpdlDYEZvn3dKaUMbz1CGzwK8QkHuk"
 
 handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
 intents = discord.Intents.default()
